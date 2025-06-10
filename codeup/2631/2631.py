@@ -15,7 +15,6 @@ while True:
     else:
         sum += arr[end]
         end += 1
-
     if sum == k:
         cnt += 1
 
